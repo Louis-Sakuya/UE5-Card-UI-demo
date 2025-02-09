@@ -1,6 +1,7 @@
 Saved/
 Intermediate/
-DerivedDataCache/
+DerivedDataCache
+Content/Assets/
 .vs/
 *.log
 *.tmp

@@ -1,0 +1,60 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="8y1rPnVkW4I_UMUBEvKA">
+    <mxGraphModel dx="1725" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tWaUDuSJkhOQowFteN4u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tWaUDuSJkhOQowFteN4u-1" target="tWaUDuSJkhOQowFteN4u-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="120" />
+              <mxPoint x="135" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tWaUDuSJkhOQowFteN4u-1" target="tWaUDuSJkhOQowFteN4u-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="120" />
+              <mxPoint x="315" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tWaUDuSJkhOQowFteN4u-1" target="tWaUDuSJkhOQowFteN4u-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="120" />
+              <mxPoint x="535" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tWaUDuSJkhOQowFteN4u-1" target="tWaUDuSJkhOQowFteN4u-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="120" />
+              <mxPoint x="725" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-1" value="Project: Oathbreaker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-3" value="大地图探索" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-4" value="场景互动" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-5" value="卡牌系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-6" value="UI" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWaUDuSJkhOQowFteN4u-11" value="动态节点系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
